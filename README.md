@@ -31,66 +31,64 @@ Backend-разработчик с опытом работы в сфере IT б�
 
 ### Backend
 <p align="left">
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" title="Python" width="36" height="36"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" title="Django" width="36" height="36"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" title="FastAPI" width="36" height="36"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" title="Flask" width="36" height="36"/></a>
-<a href="https://docs.aiogram.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/telegram-colored.svg" title="Aiogram (Telegram Bots)" width="36" height="36"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask"/></a>
+<a href="https://docs.aiogram.dev/" target="_blank"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40" height="40" alt="Aiogram"/></a>
 </p>
 
 ---
 
 ### Databases
 <p align="left">
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" title="PostgreSQL" width="36" height="36"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" title="MySQL" width="36" height="36"/></a>
-<a href="https://sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqlite-colored.svg" title="SQLite" width="36" height="36"/></a>
-<a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" title="Redis" width="36" height="36"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/></a>
+<a href="https://sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite"/></a>
+<a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis"/></a>
 </p>
 
 ---
 
 ### DevOps & Infrastructure
 <p align="left">
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" title="Docker" width="36" height="36"/></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/githubactions-colored.svg" title="GitHub Actions" width="36" height="36"/></a>
-<a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nginx-colored.svg" title="Nginx" width="36" height="36"/></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" title="Ubuntu" width="36" height="36"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" title="Linux" width="36" height="36"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions"/></a>
+<a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx"/></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="Ubuntu"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/></a>
 </p>
 
 ---
 
 ### Tools & Workflow
 <p align="left">
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" width="36" height="36"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" title="VS Code" width="36" height="36"/></a>
-<a href="https://www.vim.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" title="Vim" width="36" height="36"/></a>
-<a href="https://neovim.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" title="Neovim" width="36" height="36"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" title="Bash" width="36" height="36"/></a>
-<a href="https://postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" title="Postman" width="36" height="36"/></a>
-<a href="https://obsidian.md/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/obsidian-colored.svg" title="Obsidian" width="36" height="36"/></a>
-<a href="https://www.notion.so/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/notion-colored.svg" title="Notion" width="36" height="36"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode"/></a>
+<a href="https://neovim.io/" target="_blank"><img src="https://skillicons.dev/icons?i=neovim" width="40" height="40" alt="Neovim"/></a>
+<a href="https://postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/></a>
+<a href="https://obsidian.md/" target="_blank"><img src="https://skillicons.dev/icons?i=obsidian" width="40" height="40" alt="Obsidian"/></a>
+<a href="https://www.notion.so/" target="_blank"><img src="https://skillicons.dev/icons?i=notion" width="40" height="40" alt="Notion"/></a>
 </p>
 
 ---
 
 ### Frontend (базовый уровень)
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" title="HTML5" width="36" height="36"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" title="CSS3" width="36" height="36"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" width="36" height="36"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" title="Bootstrap" width="36" height="36"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" title="Tailwind CSS" width="36" height="36"/></a>
-<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" title="React" width="36" height="36"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/></a>
 </p>
 
 ---
 
 ### Testing
 <p align="left">
-<a href="https://docs.pytest.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytest-colored.svg" title="pytest" width="36" height="36"/></a>
-<a href="https://docs.python.org/3/library/unittest.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" title="unittest" width="36" height="36"/></a>
+<a href="https://docs.pytest.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytest" width="40" height="40" alt="pytest"/></a>
+<a href="https://docs.python.org/3/library/unittest.html" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="unittest"/></a>
 </p>
 
 ---
