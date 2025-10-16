@@ -38,7 +38,7 @@ Backend-разработчик с опытом работы в сфере IT б�
 <a href="https://docs.aiogram.dev/" target="_blank"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40" height="40" alt="Aiogram"/></a>
 </p>
 
----
+
 
 ### Databases
 <p align="left">
@@ -48,7 +48,7 @@ Backend-разработчик с опытом работы в сфере IT б�
 <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis"/></a>
 </p>
 
----
+
 
 ### DevOps & Infrastructure
 <p align="left">
@@ -59,7 +59,6 @@ Backend-разработчик с опытом работы в сфере IT б�
 <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/></a>
 </p>
 
----
 
 ### Tools & Workflow
 <p align="left">
@@ -71,7 +70,6 @@ Backend-разработчик с опытом работы в сфере IT б�
 <a href="https://www.notion.so/" target="_blank"><img src="https://skillicons.dev/icons?i=notion" width="40" height="40" alt="Notion"/></a>
 </p>
 
----
 
 ### Frontend
 <p align="left">
@@ -83,7 +81,6 @@ Backend-разработчик с опытом работы в сфере IT б�
 <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/></a>
 </p>
 
----
 
 ### Testing
 <p align="left">
@@ -97,8 +94,6 @@ Backend-разработчик с опытом работы в сфере IT б�
 
 
 
----
-
 ## Инструменты и технологии
 
 - **Языки программирования:** Python, C, JavaScript  
@@ -109,7 +104,7 @@ Backend-разработчик с опытом работы в сфере IT б�
 - **Облако:** Render, Google Cloud  
 - **Frontend:** HTML5, CSS3, TailwindCSS, Bootstrap, Javascript, React, HTMX
 
----
+
 
 ## Социальные сети
 
