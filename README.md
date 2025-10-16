@@ -91,6 +91,7 @@ Backend-разработчик с опытом работы в сфере IT б�
 <a href="https://docs.python.org/3/library/unittest.html" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="unittest"/></a>
 </p>
 
+
 ---
 
 ## Инструменты и технологии
