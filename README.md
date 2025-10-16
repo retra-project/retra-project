@@ -73,7 +73,7 @@ Backend-разработчик с опытом работы в сфере IT б�
 
 ---
 
-### Frontend (базовый уровень)
+### Frontend
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/></a>
@@ -107,7 +107,7 @@ Backend-разработчик с опытом работы в сфере IT б�
 - **DevOps:** Docker, GitHub Actions, Nginx, Redis  
 - **Инструменты:** Git, Bash, VS Code, Vim, Linux  
 - **Облако:** Render, Google Cloud  
-- **Frontend (базово):** HTML5, CSS3, TailwindCSS, Bootstrap  
+- **Frontend:** HTML5, CSS3, TailwindCSS, Bootstrap, Javascript, React, HTMX
 
 ---
 
