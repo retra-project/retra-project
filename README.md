@@ -87,9 +87,14 @@ Backend-разработчик с опытом работы в сфере IT б�
 
 ### Testing
 <p align="left">
-<a href="https://docs.pytest.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytest" width="40" height="40" alt="pytest"/></a>
-<a href="https://docs.python.org/3/library/unittest.html" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="unittest"/></a>
+<a href="https://docs.pytest.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytest.svg" width="40" height="40" alt="pytest" title="pytest"/>
+</a>
+<a href="https://docs.python.org/3/library/unittest.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="unittest" title="unittest"/>
+</a>
 </p>
+
 
 
 ---
